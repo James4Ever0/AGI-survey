@@ -97,6 +97,7 @@ BibTex citation if you find our work/resources useful:
 </p>
 
 ### 2.1 AI Perception
+
 <details>
 1. **Flamingo: a Visual Language Model for Few-Shot Learning**. *Jean-Baptiste Alayrac* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2204.14198)]
 2. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. *Junnan Li* et al. ICML 2023. [[paper](https://arxiv.org/abs/2301.12597)]
@@ -118,6 +119,7 @@ BibTex citation if you find our work/resources useful:
 18. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**. *Bin Zhu* et al. ICLR 2024. [[paper](https://arxiv.org/abs/2310.01852)]
 </details>
 ### 2.2 AI Reasoning
+
 <details>
 1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. *Jason Wei* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
 2. **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**. *Maarten Sap* et al. EMNLP 2022. [[paper](https://arxiv.org/abs/2210.13312)]
@@ -142,6 +144,7 @@ BibTex citation if you find our work/resources useful:
 21. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.14963)] **pending**
 </details>
 ### 2.3 AI Memory
+
 <details>
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
 2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
@@ -155,6 +158,7 @@ BibTex citation if you find our work/resources useful:
 10. **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**. *Qingyue Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.15022)] **pending**
 </details>
 ### 2.4 AI Metacognition
+
 <details>
 1. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning**. *Jyoti Choudrie* et al. HICSS 2006. [[paper](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
 2. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching**. *Nam Le*. arXiv 2019. [[paper](https://arxiv.org/abs/1906.08865)]
@@ -181,6 +185,7 @@ BibTex citation if you find our work/resources useful:
 
 
 ### 3.1 AI Interfaces to Digital World
+
 <details>
 1. **Principles of mixed-initiative user interfaces**. *Eric Horvitz.* SIGCHI 1999. [[paper](https://dl.acm.org/doi/pdf/10.1145/302979.303030)]
 2. **The rise and potential of large language model based agents: A survey**. *Zhiheng Xi et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.07864)]
@@ -200,6 +205,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 3.2 AI Interfaces to Physical World
+
 <details>
 1. **Lessons from the amazon picking challenge: Four aspects of building robotic systems**. *Clemens Eppner* et al. RSS 2016. [[paper](https://m.roboticsproceedings.org/rss12/p36.pdf)]
 2. **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**. *Mohit Shridhar* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2209.05451)]
@@ -220,6 +226,7 @@ BibTex citation if you find our work/resources useful:
 ### 3.3 AI Interfaces to Intelligence
 
 #### 3.3.1 AI Interfaces to AI Agents
+
 <details>
 1. **Counterfactual multi-agent policy gradients**. *Jakob Foerster* et al. AAAI 2018. [[paper](https://arxiv.org/abs/1705.08926)]
 2. **Explanations from large language models make small reasoners better**. *Shiyang Li* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2210.06726)]
@@ -247,6 +254,7 @@ BibTex citation if you find our work/resources useful:
 24. **Towards general computer control: A multimodal agent for red dead redemption ii as a case study**. *Weihao Tan* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.03186)]
 </details>
 #### 3.3.2 AI Interfaces to Human
+
 <details>
 1. **Guidelines for Human-AI Interaction**.
    *Saleema Amershi* et al. CHI 2019. [[paper](https://dl.acm.org/doi/10.1145/3290605.3300233)]
@@ -292,6 +300,7 @@ BibTex citation if you find our work/resources useful:
 </p>
 
 ### 4.2 Scalable Model Architectures
+
 <details>
 1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer**. *Noam Shazeer* et al. arXiv 2017. [[paper](https://arxiv.org/abs/1701.06538)]
 2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention**. *Angelos Katharopoulos* et al. arXiv 2020. [[paper](https://arxiv.org/abs/2006.16236)]
@@ -319,6 +328,7 @@ BibTex citation if you find our work/resources useful:
 24. **You Only Cache Once: Decoder-Decoder Architectures for Language Models** *Yutao Sun* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2405.05254)]
 </details>
 ### 4.3 Large-scale Training
+
 <details>
 1. **Training Deep Nets with Sublinear Memory Cost**. *Tianqi Chen et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1604.06174)]
 2. **Beyond Data and Model Parallelism for Deep Neural Networks**. *Zhihao Jia et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1807.05358)]
@@ -343,6 +353,7 @@ BibTex citation if you find our work/resources useful:
 21. **On Efficient Training of Large-Scale Deep Learning Models: A Literature Review**. *Li Shen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.03589)] **pending**
 </details>
 ### 4.4 Inference Techniques
+
 <details>
 1. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
 2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**. *Jun Zhang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.08168)]
@@ -370,6 +381,7 @@ BibTex citation if you find our work/resources useful:
 
 ### 4.5 Cost and Efficiency
 
+
 <details>
 1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP**. *Omar Khattab et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.14024)]
 2. **Automated Machine Learning: Methods, Systems, Challenges**. *Frank Hutter et al.* Springer Publishing Company, Incorporated, 2019.
@@ -391,6 +403,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 4.6 Computing Platforms
+
 <details>
 1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning**. *Tianqi Chen et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1802.04799)]
 2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings**. *Norman P. Jouppi et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.01433)]
@@ -404,6 +417,7 @@ BibTex citation if you find our work/resources useful:
 
 
 ### 5.1 Expectations of AGI Alignment
+
 
 <details>
 1. **Human Compatible: Artificial Intelligence and the Problem of Control**.
@@ -446,6 +460,7 @@ BibTex citation if you find our work/resources useful:
     *Sauvik Das* et al. Communications of the ACM, 2023. [[paper](https://dl.acm.org/doi/10.1145/3625254)]
 </details>
 ### 5.2 Current Alignment Techniques
+
 <details>
 1. **Learning to summarize with human feedback**. *Nisan Stiennon* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2009.01325)]
 2. **Second thoughts are best: Learning to re-align with human values from text edits**. *Ruibo Liu* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2301.00355)]
@@ -469,6 +484,7 @@ BibTex citation if you find our work/resources useful:
 21. **Lima: Less is more for alignment**. *Chunting Zhou* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2305.11206)]
 </details>
 ### 5.3 How to approach AGI Alignments
+
 <details>
 1. **Ethical and social risks of harm from Language**. *Mellor Weidinger* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2112.04359)]
 2. **Beijing AI Safety International Consensus**. *Beijing Academy of Artificial Intelligence.* 2024. [[paper](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)]
@@ -494,6 +510,7 @@ BibTex citation if you find our work/resources useful:
 ## 6. AGI Roadmap: Responsibly Approaching AGI
 
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
+
 <details>
 1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4**. *Sébastien Bubeck* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
 2. **Levels of AGI: Operationalizing Progress on the Path to AGI**. *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
@@ -506,6 +523,7 @@ BibTex citation if you find our work/resources useful:
 </p>
 
 #### 6.2.1 Expectations for AGI Evaluation
+
 <details>
 1. **Towards the systematic reporting of the energy and carbon footprints of machine learning**. *Peter Henderson et al.* Journal of Machine Learning Research, 2020.
 2. **Green ai**. *Roy Schwartz* Communications of the ACM, 2020.
@@ -518,6 +536,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 #### 6.2.2 Current Evaluations and Their Limitations
+
 <details>
 1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text**. *Pranav Rajpurkar et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1606.05250)]
 2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension**. *Mandar Joshi et al.* arXiv 2017. [[paper](https://arxiv.org/abs/1705.03551)]
@@ -546,6 +565,7 @@ BibTex citation if you find our work/resources useful:
 <!-- ### 6.3 Potential Ways to Future AGI -->
 
 ###  6.5 Further Considerations during AGI Development
+
 <details>
 1. **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**. *Usman Anwar et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.09932)]
 2. **Best Practices and Lessons Learned on Synthetic Data for Language Models**. *Ruibo Liu et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.07503)]
@@ -555,6 +575,7 @@ BibTex citation if you find our work/resources useful:
 ## 7. Case Studies
 
 ### 7.1 AI for Science Discovery and Research
+
 <details>
 1. **Highly accurate protein structure prediction with AlphaFold**. *Jumper, John* et al. Nature, 2021. [[paper](https://www.nature.com/articles/s41586-021-03819-2)]
 2. **Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems**. *Kramer, Stefan* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.02251)]
@@ -585,6 +606,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 7.2 Generative Visual Intelligence
+
 <details>
 1. **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. *Jascha Sohl-Dickstein* et al. ICML 2015. [[paper](https://arxiv.org/abs/1503.03585)]
 2. **Generative Modeling by Estimating Gradients of the Data Distribution**. *Yang Song* et al. NeurIPS 2019. [[paper](https://arxiv.org/abs/1907.05600)]
@@ -603,6 +625,7 @@ BibTex citation if you find our work/resources useful:
 15. **Video Generation Models as World Simulators**. *Tim Brooks* et al. OpenAI 2024. [[paper](https://openai.com/research/video-generation-models-as-world-simulators)]
 </details>
 ### 7.3 World Models
+
 <details>
 1. **Learning to See Physics via Visual De-animation**. *Wu, Jiajun* et al. NeurIPS 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
 2. **Safe model-based reinforcement learning with stability guarantees**. *Berkenkamp, Felix* et al. NeurIPS, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf)]
@@ -623,6 +646,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 7.4 Decentralized LLM
+
 <details>
 1. **Petals: Collaborative Inference and Fine-tuning of Large Models**. *Alexander Borzunov* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2209.01188)]
 2. **Blockchain for Deep Learning: Review and Open Challenges**. *The Economic Times.* Cluster Computing 2021. [[paper](https://link.springer.com/article/10.1007/s10586-022-03582-7)]
@@ -630,6 +654,7 @@ BibTex citation if you find our work/resources useful:
 4. **Decentralized Training of Foundation Models in Heterogeneous Environments**. *Binhang Yuan* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2206.01288)]
 </details>
 ### 7.5 AI for Coding
+
 <details>
 1. **A framework for the evaluation of code generation models**. *Ben Allal* et al. GitHub, 2023. [[code](https://github.com/bigcode-project/bigcode-evaluation-harness)]
 2. **Evaluating Large Language Models Trained on Code**. *Mark Chen* et al. arxiv 2021. [[paper](https://arxiv.org/abs/2107.03374)]
@@ -656,6 +681,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 7.6 AI for Robotics in Real World Applications
+
 <details>
 1. **The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies**. *Brynjolfsson, Erik* W. W. Norton \& Company, 2014.
 2. **Rise of the Robots: Technology and the Threat of a Jobless Future**. *Ford, Martin.* Basic Books, 2015.
@@ -671,6 +697,7 @@ BibTex citation if you find our work/resources useful:
 </details>
 
 ### 7.7 Human-AI Collaboration
+
 <details>
 1. **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities**.
    *Mina Lee* et al. CHI 2022. [[paper](http://arxiv.org/abs/2201.06796)]
