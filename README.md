@@ -196,6 +196,7 @@ BibTex citation if you find our work/resources useful:
 12. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**. *Zhiyong Wu et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.07456)]
 13. **WebArena: A Realistic Web Environment for Building Autonomous Agents**. *Shuyan Zhou et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
 14. **Large Language Models as Tool Makers**. *Tianle Cai et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
+15. **Cybergod: God is in your computer**. *James Brown* December 2024. [[paper](https://james4ever0.github.io/Cybergod__God_is_in_your_computer.html)] [[code](https://james4ever0.github.io)]
 
 
 ### 3.2 AI Interfaces to Physical World
